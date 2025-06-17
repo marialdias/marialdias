@@ -47,3 +47,7 @@
 
 ### ✨
 > “A tecnologia move o mundo.” – Steve Jobs
+
+----
+
+<img src="URL-da-imagem" width="200" alt="Descrição" />
