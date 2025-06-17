@@ -39,8 +39,8 @@
 
 ### 📫 Contato
 
-- 💌 Email: [seuemail@email.com](mailto:seuemail@email.com)
-- 💼 LinkedIn: [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)
+- 💌 Email: [diasmalu35@gmail.com](diasmalu35@gmail.com)
+- 💼 LinkedIn: [(https://www.linkedin.com/in/maria-luiza-dias-de-jesus-86047a305?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)]([https://linkedin.com/in/seu-usuario](https://www.linkedin.com/in/maria-luiza-dias-de-jesus-86047a305?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
 - 🌐 Portfólio: [seusite.com](https://seusite.com)
 
 ---
