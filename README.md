@@ -1,6 +1,6 @@
-## Hi there 👋
+## Maria Luiza Dias de Jesus ✨👋
 
-<h1 align="center">👋 Oi, eu sou a Malu Dias!</h1>
+<h1 align="center">👋 Oi, eu sou a Maria Luiza Dias!</h1>
 
 <p align="center">
 💻 Desenvolvedora em formação, apaixonada por front-end e sistemas práticos.
@@ -40,7 +40,7 @@
 ### 📫 Contato
 
 - 💌 Email: [diasmalu35@gmail.com](diasmalu35@gmail.com)
-- 💼 LinkedIn: [(https://www.linkedin.com/in/maria-luiza-dias-de-jesus-86047a305?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)]([https://linkedin.com/in/seu-usuario](https://www.linkedin.com/in/maria-luiza-dias-de-jesus-86047a305?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
+- 💼 LinkedIn: [[(https://www.linkedin.com/in/maria-luiza-dias-de-jesus-86047a305?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)](https://www.linkedin.com/in/maria-luiza-dias-de-jesus)
 - 🌐 Portfólio: [seusite.com](https://seusite.com)
 
 ---
