@@ -45,5 +45,5 @@
 
 ---
 
-### ✨ Frase que me inspira
+### ✨
 > “A tecnologia move o mundo.” – Steve Jobs
