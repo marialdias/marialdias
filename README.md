@@ -41,7 +41,7 @@
 
 - 💌 Email: [diasmalu35@gmail.com](diasmalu35@gmail.com)
 - 💼 LinkedIn: [(https://www.linkedin.com/in/maria-luiza-dias-de-jesus)](https://www.linkedin.com/in/maria-luiza-dias-de-jesus)
-- 🌐 Portfólio: [[[seusite.com](https://marialdias.github.io/Portf-lio-Maria-Dias/)](https://seusite.com](https://marialdias.github.io/Portf-lio-Maria-Dias/))
+- 🌐 Portfólio: [(https://marialdias.github.io/Portf-lio-Maria-Dias/)](https://marialdias.github.io/Portf-lio-Maria-Dias/))
 
 ---
 
