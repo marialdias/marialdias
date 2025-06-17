@@ -40,7 +40,7 @@
 ### 📫 Contato
 
 - 💌 Email: [diasmalu35@gmail.com](diasmalu35@gmail.com)
-- 💼 LinkedIn: [[(https://www.linkedin.com/in/maria-luiza-dias-de-jesus-86047a305?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)](https://www.linkedin.com/in/maria-luiza-dias-de-jesus)
+- 💼 LinkedIn: [(https://www.linkedin.com/in/maria-luiza-dias-de-jesus)](https://www.linkedin.com/in/maria-luiza-dias-de-jesus)
 - 🌐 Portfólio: [seusite.com](https://seusite.com)
 
 ---
