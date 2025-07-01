@@ -9,9 +9,9 @@
 ---
 
 ### 🌟 Sobre mim
-- 👩‍💻 Estudando: -> C++
-                -> Java
-              -> HTML + CSS
+- 👩‍💻 Estudando: -> C++,
+                -> Java,
+              -> HTML + CSS &
              -> JavaScript
 - 🎯 Foco: Criar sistemas com *LocalStorage*, CRUDs práticos e boas interfaces
 - 🧠 Sempre buscando aprender e evoluir
