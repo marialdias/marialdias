@@ -15,7 +15,7 @@
   - Java
   - HTML + CSS
   - JavaScript
-  - SQL
+    
 - 🎯 Foco: Criar sistemas com **LocalStorage**, CRUDs práticos e boas interfaces
 - 🧠 Sempre buscando aprender e evoluir
 
@@ -29,7 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40px" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" alt="MySQL" />
+  
 </p>
 
 ---
