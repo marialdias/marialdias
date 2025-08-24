@@ -12,7 +12,7 @@
 - 👩‍💻 Estudando: -> C++,
                 -> Java,
               -> HTML + CSS, 
-             -> JavaScript, SQL & Java
+             -> JavaScript, -> SQL & -> Java
 - 🎯 Foco: Criar sistemas com *LocalStorage*, CRUDs práticos e boas interfaces
 - 🧠 Sempre buscando aprender e evoluir
 
