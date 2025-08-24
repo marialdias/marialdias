@@ -3,7 +3,7 @@
 <h1 align="center">✨ Oi, eu sou a Maria Luiza Dias!</h1>
 
 <p align="center">
-💻 Desenvolvedora em formação, apaixonada por front-end, sistemas práticos & análise de dados.
+💻 Desenvolvedora em formação, apaixonada por front-end e sistemas práticos.
 </p>
 
 ---
@@ -29,6 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40px" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" alt="MySQL" />
 </p>
 
 ---
@@ -41,8 +42,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maludias&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
-
----
 
 ### 📫 Contato
 
