@@ -15,6 +15,16 @@ Analista e Desenvolvedora em formação 🚀
 
 ---
 
+## 🎧 Spotify
+
+<p align="center">
+
+<img src="[SUA-URL-AQUI](https://open.spotify.com/intl-pt/track/6IyvXMlalYJ5NBXWWi3ugg?si=1259912dd99b42a9)"/>
+
+</p>
+
+---
+
 ```bash
 > initializing Maria.exe...
 
@@ -24,21 +34,17 @@ Analista e Desenvolvedora em formação 🚀
 
 system status:
 still learning...
-```
+
                                                                                                                                                                      ```txt
 00:47 AM
 still debugging...
 ```
 
+```
+
 ---
 
-## 🎧 Spotify
 
-<p align="center">
-
-<img src="SUA-URL-AQUI"/>
-
-</p>
 
 ---
 
