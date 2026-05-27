@@ -14,6 +14,16 @@ Analista e Desenvolvedora em formação 🚀
 
 ---
 
+```txt
+00:47 AM
+still debugging...
+```
+🎧 currently coding to:
+sad songs and database errors
+
+
+---
+
 ```bash
 > initializing Maria.exe...
 
@@ -73,30 +83,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente no último s
 
 Gosto de aprender novas tecnologias, desenvolver projetos e transformar ideias em soluções práticas.
 
----
-
-```txt
-Maria Luiza
-━━━━━━━━━━━━━━━
-Class: Developer
-Level: 22
-Skills:
-+ Python
-+ MySQL
-+ Surviving deadlines
-```
-
----
-
-🎧 currently coding to:
-sad songs and database errors
-
----
-
-```txt
-00:47 AM
-still debugging...
-```
 
 ---
 
