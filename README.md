@@ -12,15 +12,6 @@ Analista e Desenvolvedora em formação 🚀
 💻 Apaixonada por tecnologia!!
 </p>
 
----
-
-```txt
-00:47 AM
-still debugging...
-```
-🎧 currently coding to:
-sad songs and database errors
-
 
 ---
 
@@ -34,6 +25,20 @@ sad songs and database errors
 system status:
 still learning...
 ```
+                                                                                                                                                                     ```txt
+00:47 AM
+still debugging...
+```
+
+---
+
+## 🎧 Spotify
+
+<p align="center">
+
+<img src="SUA-URL-AQUI"/>
+
+</p>
 
 ---
 
