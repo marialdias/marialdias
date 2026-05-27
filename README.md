@@ -14,6 +14,19 @@ Analista e Desenvolvedora em formação 🚀
 
 ---
 
+```bash
+> initializing Maria.exe...
+
+[✔] Python loaded
+[✔] MySQL connected
+[✔] caffeine detected
+
+system status:
+still learning...
+```
+
+---
+
 ## 🚀 Tecnologias e Ferramentas
 
 <p align="center">
@@ -62,6 +75,31 @@ Gosto de aprender novas tecnologias, desenvolver projetos e transformar ideias e
 
 ---
 
+```txt
+Maria Luiza
+━━━━━━━━━━━━━━━
+Class: Developer
+Level: 22
+Skills:
++ Python
++ MySQL
++ Surviving deadlines
+```
+
+---
+
+🎧 currently coding to:
+sad songs and database errors
+
+---
+
+```txt
+00:47 AM
+still debugging...
+```
+
+---
+
 ## 📫 Contato
 
 📧 Email: diasmalu35@gmail.com
@@ -71,16 +109,5 @@ Gosto de aprender novas tecnologias, desenvolver projetos e transformar ideias e
 
 ---
 
-## ✨ Objetivos
-
-- Evoluir como desenvolvedora
-- Criar projetos cada vez mais completos
-- Aprender novas tecnologias
-- Ingressar na área de desenvolvimento
-
-
-
-
 > “A tecnologia move o mundo.” – Steve Jobs
-
 
