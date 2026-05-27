@@ -23,8 +23,6 @@ Analista e Desenvolvedora em formação 🚀
 
 </p>
 
----
-
 ```bash
 > initializing Maria.exe...
 
@@ -35,10 +33,9 @@ Analista e Desenvolvedora em formação 🚀
 system status:
 still learning...
 
-                                                                                                                                                                     ```txt
+                                                                                                                                                                   
 00:47 AM
 still debugging...
-```
 
 ```
 
