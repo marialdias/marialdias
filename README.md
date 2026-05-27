@@ -78,7 +78,7 @@ Gosto de aprender novas tecnologias, desenvolver projetos e transformar ideias e
 
 
 
-### ✨
+
 > “A tecnologia move o mundo.” – Steve Jobs
 
 
