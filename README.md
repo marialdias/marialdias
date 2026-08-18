@@ -1,38 +1,5 @@
 
 
-<h1 align="center">Oie, Eu sou Maria Luiza Dias!!</h1>
-
-<h3 align="center">
-Analista e Desenvolvedora em formação 🚀
-</h3>
-
-<p align="center">
-🎓 Último semestre de Análise e Desenvolvimento de Sistemas <br>
-🐍 Foco em Python e MySQL <br>
-💻 Apaixonada por tecnologia!!
-</p>
-
----
-
-
-## 🎧 Spotify
-
-<p align="center">
-
-<img src="[SUA-URL-AQUI](https://open.spotify.com/intl-pt/track/6IyvXMlalYJ5NBXWWi3ugg?si=1259912dd99b42a9)"/>
-
-</p>
-
-```bash
-> initializing Maria.exe...
-
-[✔] Python loaded
-[✔] MySQL connected
-[✔] caffeine detected
-
-system status:
-still learning...
-
                                                                                                                                                                    
 00:47 AM
 still debugging...
