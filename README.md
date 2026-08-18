@@ -1,4 +1,4 @@
-Olá, eu sou a Maria Luiza! 💜
+Olá, eu sou a Maria Luiza!
 Analista de Sistemas | Data Science | Dados, BI & Tecnologia
 
 Sou formada em Análise e Desenvolvimento de Sistemas e atualmente estou direcionando minha carreira para a área de Data Science, unindo tecnologia, análise de dados e visão de negócio.
@@ -7,19 +7,19 @@ Gosto de transformar dados em informações úteis, entender problemas e encontr
 
 ✨ Sobre mim
 
-🎓 Formada em Análise e Desenvolvimento de Sistemas
-📊 Pós-graduanda em Data Science
-💻 Experiência com Análise de Dados, SQL, BI e Tecnologia
-🔐 Conhecimentos em Infraestrutura e Segurança de Redes
-🧠 Interesse em Data Science, Analytics, Business Intelligence e QA
-🚀 Sempre estudando, criando projetos e buscando novos desafios
+· Formada em Análise e Desenvolvimento de Sistemas
+· Pós-graduanda em Data Science
+· Experiência com Análise de Dados, SQL, BI e Tecnologia
+· Conhecimentos em Infraestrutura e Segurança de Redes
+· Interesse em Data Science, Analytics, Business Intelligence e QA
+· Sempre estudando, criando projetos e buscando novos desafios
 
-🛠️ Tecnologias & Conhecimentos
-📊 Dados & Analytics
+· Tecnologias & Conhecimentos
+· Dados & Analytics
 
 Python SQL MySQL PostgreSQL Power BI Excel
 
-🔧 Ferramentas
+Ferramentas
 
 Git GitHub Figma Canva Jira MySQL Workbench
 
