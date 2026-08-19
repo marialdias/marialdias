@@ -1,27 +1,29 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+a+Maria+Luiza!+%F0%9F%92%9C;Analista+de+Sistemas+%7C+Data+Science;Transformando+dados+em+solu%C3%A7%C3%B5es" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3500&pause=1200&color=A855F7&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+a+Maria+Luiza;Analista+de+Sistemas+%7C+Data+Science;Transformando+dados+em+solu%C3%A7%C3%B5es" alt="Typing SVG" />
 
 <br>
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Maria%20Luiza%20Dias&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%7C%20BI%20%7C%20Analytics%20%7C%20Tecnologia&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=header&text=Maria%20Luiza%20Dias&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20BI%20%7C%20Analytics%20%7C%20Tecnologia&descAlignY=58&descSize=16)
 
 </div>
 
 ## Sobre mim
 
+Sou formada em Análise e Desenvolvimento de Sistemas e atualmente estou direcionando minha carreira para a área de Data Science, unindo tecnologia, análise de dados e visão de negócio.
+
 ```txt
 const mariaLuiza = {
     formacao: "Análise e Desenvolvimento de Sistemas",
     posGraduacao: "Data Science (em andamento)",
-    areas: ["Análise de Dados", "SQL", "Business Intelligence"],
-    interesses: ["Data Science", "BI"],
+    areas: ["Análise de Dados", "SQL", "Business Intelligence", "Tecnologia"],
+    interesses: ["Data Science", "Analytics", "BI", "QA"],
     diferencial: "Infraestrutura e Segurança de Redes",
-    
+    mindset: "Sempre estudando, criando projetos e buscando novos desafios"
 };
 ```
 
-Meu objetivo é evoluir constantemente, construindo uma trajetória sólida na área de **Dados, BI e Analytics**.
+Gosto de transformar dados em informações úteis, entender problemas e encontrar soluções através da tecnologia. Meu objetivo é evoluir constantemente, construindo uma trajetória sólida na área de **Dados, BI e Analytics**.
 
 <br>
 
@@ -32,7 +34,9 @@ Meu objetivo é evoluir constantemente, construindo uma trajetória sólida na �
 **Dados & Analytics**
 
 ![Python](https://img.shields.io/badge/Python-9D4EDD?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-5A189A&?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-7B2CBF?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-5A189A?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3C096C?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-C77DFF?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-E0AAFF?style=for-the-badge&logo=microsoftexcel&logoColor=black)
 
@@ -57,14 +61,16 @@ Meu objetivo é evoluir constantemente, construindo uma trajetória sólida na �
 
 <br>
 
-## Atualmente estudando
+## Atualmente focando em
 
 <div align="center">
 
-`Data Science` `Business Intelligence` `SQL` `Power BI`
- `Machine Learning`
+`Data Science` `Data Analytics` `Business Intelligence` `SQL` `Python`
+`Visualização de Dados` `Estatística` `Machine Learning`
 
 </div>
+
+> Meu foco é construir uma carreira cada vez mais orientada por dados, tecnologia e resolução de problemas.
 
 <br>
 
@@ -76,11 +82,12 @@ Aqui você encontrará projetos acadêmicos e pessoais relacionados a:
 - SQL e bancos de dados
 - Business Intelligence
 - Desenvolvimento de sistemas
+- Automação e tecnologia
 - Estudos em Data Science
 
 <br>
 
-##  GitHub Stats
+## Estatísticas do GitHub
 
 <div align="center">
 
@@ -106,9 +113,10 @@ Estou sempre aberta a aprender, compartilhar conhecimento e conhecer pessoas da 
 
 <div align="center">
 
+*"Transformando curiosidade em conhecimento, e conhecimento em soluções."*
 
-💜 **Data • Technology • Growth** 💜
+**Data • Technology • Growth**
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=90&section=footer)
 
 </div>
