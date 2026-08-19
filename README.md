@@ -14,10 +14,10 @@
 const mariaLuiza = {
     formacao: "Análise e Desenvolvimento de Sistemas",
     posGraduacao: "Data Science (em andamento)",
-    areas: ["Análise de Dados", "SQL", "Business Intelligence", "Tecnologia"],
-    interesses: ["Data Science", "Analytics", "BI", "QA"],
+    areas: ["Análise de Dados", "SQL", "Business Intelligence"],
+    interesses: ["Data Science", "BI"],
     diferencial: "Infraestrutura e Segurança de Redes",
-    mindset: "Sempre estudando, criando projetos e buscando novos desafios 🚀"
+    
 };
 ```
 
@@ -25,16 +25,14 @@ Gosto de transformar dados em informações úteis, entender problemas e encontr
 
 <br>
 
-## 🛠️ Tecnologias & Conhecimentos
+## Tecnologias & Conhecimentos
 
 <div align="center">
 
 **Dados & Analytics**
 
 ![Python](https://img.shields.io/badge/Python-9D4EDD?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-7B2CBF?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-5A189A&?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3C096C?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-C77DFF?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-E0AAFF?style=for-the-badge&logo=microsoftexcel&logoColor=black)
 
@@ -59,33 +57,30 @@ Gosto de transformar dados em informações úteis, entender problemas e encontr
 
 <br>
 
-## 🌸 Atualmente estudando
+## Atualmente estudando
 
 <div align="center">
 
-`Data Science` `Data Analytics` `Business Intelligence` `SQL` `Python`
-`Visualização de Dados` `Estatística` `Machine Learning`
+`Data Science` `Business Intelligence` `SQL` `Power BI`
+ `Machine Learning`
 
 </div>
 
-> Meu foco é construir uma carreira cada vez mais orientada por **dados, tecnologia e resolução de problemas**.
-
 <br>
 
-## 📂 Projetos
+## Projetos
 
 Aqui você encontrará projetos acadêmicos e pessoais relacionados a:
 
-- 📊 Análise e visualização de dados
-- 🗄️ SQL e bancos de dados
-- 📈 Business Intelligence
-- 💻 Desenvolvimento de sistemas
-- ⚙️ Automação e tecnologia
+- Análise e visualização de dados
+- SQL e bancos de dados
+- Business Intelligence
+- Desenvolvimento de sistemas
 - 🎓 Estudos em Data Science
 
 <br>
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -96,7 +91,7 @@ Aqui você encontrará projetos acadêmicos e pessoais relacionados a:
 
 <br>
 
-## 💌 Vamos nos conectar?
+## Vamos nos conectar?
 
 Estou sempre aberta a aprender, compartilhar conhecimento e conhecer pessoas da área de tecnologia e dados.
 
@@ -113,7 +108,7 @@ Estou sempre aberta a aprender, compartilhar conhecimento e conhecer pessoas da 
 
 *"Transformando curiosidade em conhecimento, e conhecimento em soluções."*
 
-💜 **Data • Technology • Growth**
+💜 **Data • Technology • Growth** 💜
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
