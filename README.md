@@ -8,7 +8,7 @@
 
 </div>
 
-## 💜 Sobre mim
+## Sobre mim
 
 ```txt
 const mariaLuiza = {
@@ -21,7 +21,7 @@ const mariaLuiza = {
 };
 ```
 
-Gosto de transformar dados em informações úteis, entender problemas e encontrar soluções através da tecnologia. Meu objetivo é evoluir constantemente, construindo uma trajetória sólida na área de **Dados, BI e Analytics**.
+Meu objetivo é evoluir constantemente, construindo uma trajetória sólida na área de **Dados, BI e Analytics**.
 
 <br>
 
@@ -106,7 +106,6 @@ Estou sempre aberta a aprender, compartilhar conhecimento e conhecer pessoas da 
 
 <div align="center">
 
-*"Transformando curiosidade em conhecimento, e conhecimento em soluções."*
 
 💜 **Data • Technology • Growth** 💜
 
