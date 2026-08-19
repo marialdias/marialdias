@@ -76,7 +76,7 @@ Aqui você encontrará projetos acadêmicos e pessoais relacionados a:
 - SQL e bancos de dados
 - Business Intelligence
 - Desenvolvimento de sistemas
-- 🎓 Estudos em Data Science
+- Estudos em Data Science
 
 <br>
 
