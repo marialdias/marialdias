@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3500&pause=1200&color=A855F7&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+a+Maria+Luiza;Analista+de+Sistemas+%7C+Data+Science;Transformando+dados+em+solu%C3%A7%C3%B5es" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3500&pause=1200&color=A855F7&center=true&vCenter=true&width=650&lines=Ol%C3%A1+sou+Maria+Luiza;Suporte+em+TI+%7C+Data+Science" alt="Typing SVG" />
 
 <br>
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=header&text=Maria%20Luiza%20Dias&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20BI%20%7C%20Analytics%20%7C%20Tecnologia&descAlignY=58&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,50:7B2CBF,100:3C096C&height=170&section=header&text=Maria%20Luiza%20Dias&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20BI%20%7C%20Analytics%20%7C%20Tecnologia&descAlignY=58&descSize=16)
 
 </div>
 
@@ -17,7 +17,7 @@ const mariaLuiza = {
     formacao: "Análise e Desenvolvimento de Sistemas",
     posGraduacao: "Data Science (em andamento)",
     areas: ["Análise de Dados", "SQL", "Business Intelligence", "Tecnologia"],
-    interesses: ["Data Science", "Analytics", "BI", "QA"],
+    interesses: ["Data Science", "BI"],
     diferencial: "Infraestrutura e Segurança de Redes",
     mindset: "Sempre estudando, criando projetos e buscando novos desafios"
 };
@@ -65,8 +65,7 @@ Gosto de transformar dados em informações úteis, entender problemas e encontr
 
 <div align="center">
 
-`Data Science` `Data Analytics` `Business Intelligence` `SQL` `Python`
-`Visualização de Dados` `Estatística` `Machine Learning`
+`Data Science` `Data Analytics` `Business Intelligence` `SQL` `Python` `Machine Learning`
 
 </div>
 
@@ -80,9 +79,7 @@ Aqui você encontrará projetos acadêmicos e pessoais relacionados a:
 
 - Análise e visualização de dados
 - SQL e bancos de dados
-- Business Intelligence
 - Desenvolvimento de sistemas
-- Automação e tecnologia
 - Estudos em Data Science
 
 <br>
@@ -91,8 +88,8 @@ Aqui você encontrará projetos acadêmicos e pessoais relacionados a:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=marialdias&show_icons=true&theme=radical&hide_border=true&title_color=C77DFF&icon_color=C77DFF&text_color=E0AAFF&bg_color=1a1a2e" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=marialdias&theme=radical&hide_border=true&background=1a1a2e&ring=C77DFF&fire=C77DFF&currStreakLabel=E0AAFF" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=marialdias&show_icons=true&theme=radical&hide_border=true&title_color=C77DFF&icon_color=C77DFF&text_color=E0AAFF&bg_color=1a1a2e&cache_seconds=86400" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=marialdias&theme=radical&hide_border=true&background=1a1a2e&ring=C77DFF&fire=C77DFF&currStreakLabel=E0AAFF" width="48%" />
 
 </div>
 
@@ -104,7 +101,7 @@ Estou sempre aberta a aprender, compartilhar conhecimento e conhecer pessoas da 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maria_Luiza_Dias-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marialdias)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maria_Luiza_Dias-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-luiza-dias-de-jesus-86047a305)
 [![GitHub](https://img.shields.io/badge/GitHub-marialdias-240046?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marialdias)
 
 </div>
