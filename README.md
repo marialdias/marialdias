@@ -19,11 +19,10 @@ const mariaLuiza = {
     areas: ["Análise de Dados", "SQL", "Business Intelligence", "Tecnologia"],
     interesses: ["Data Science", "BI"],
     diferencial: "Infraestrutura e Segurança de Redes",
-    mindset: "Sempre estudando, criando projetos e buscando novos desafios"
 };
 ```
 
-Gosto de transformar dados em informações úteis, entender problemas e encontrar soluções através da tecnologia. Meu objetivo é evoluir constantemente, construindo uma trajetória sólida na área de **Dados, BI e Analytics**.
+Meu objetivo é evoluir constantemente, construindo uma trajetória sólida na área de **Dados, BI e Analytics**.
 
 <br>
 
@@ -34,7 +33,6 @@ Gosto de transformar dados em informações úteis, entender problemas e encontr
 **Dados & Analytics**
 
 ![Python](https://img.shields.io/badge/Python-9D4EDD?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-7B2CBF?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-5A189A?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3C096C?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-C77DFF?style=for-the-badge&logo=powerbi&logoColor=white)
