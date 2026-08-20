@@ -108,8 +108,6 @@ Estou sempre aberta a aprender, compartilhar conhecimento e conhecer pessoas da 
 
 <div align="center">
 
-*"Transformando curiosidade em conhecimento, e conhecimento em soluções."*
-
 **Data • Technology • Growth**
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=90&section=footer)
