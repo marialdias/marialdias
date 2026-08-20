@@ -17,12 +17,13 @@ const mariaLuiza = {
     formacao: "Análise e Desenvolvimento de Sistemas",
     posGraduacao: "Data Science (em andamento)",
     areas: ["Análise de Dados", "SQL", "Business Intelligence", "Tecnologia"],
-    interesses: ["Data Science", "BI"],
+    interesses: ["Data Science", "Analytics", "BI", "QA"],
     diferencial: "Infraestrutura e Segurança de Redes",
+    mindset: "Sempre estudando, criando projetos e buscando novos desafios"
 };
 ```
 
-Meu objetivo é evoluir constantemente, construindo uma trajetória sólida na área de **Dados, BI e Analytics**.
+Gosto de transformar dados em informações úteis, entender problemas e encontrar soluções através da tecnologia. Meu objetivo é evoluir constantemente, construindo uma trajetória sólida na área de **Dados, BI e Analytics**.
 
 <br>
 
@@ -33,6 +34,7 @@ Meu objetivo é evoluir constantemente, construindo uma trajetória sólida na �
 **Dados & Analytics**
 
 ![Python](https://img.shields.io/badge/Python-9D4EDD?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-7B2CBF?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-5A189A?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3C096C?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-C77DFF?style=for-the-badge&logo=powerbi&logoColor=white)
@@ -82,12 +84,11 @@ Aqui você encontrará projetos acadêmicos e pessoais relacionados a:
 
 <br>
 
-## Estatísticas do GitHub
+## Minhas Contribuições
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=marialdias&show_icons=true&theme=radical&hide_border=true&title_color=C77DFF&icon_color=C77DFF&text_color=E0AAFF&bg_color=1a1a2e&cache_seconds=86400" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=marialdias&theme=radical&hide_border=true&background=1a1a2e&ring=C77DFF&fire=C77DFF&currStreakLabel=E0AAFF" width="48%" />
+<img src="https://raw.githubusercontent.com/mariadias/mariadias/output/github-contribution-grid-snake.svg" width="100%" />
 
 </div>
 
@@ -100,13 +101,15 @@ Estou sempre aberta a aprender, compartilhar conhecimento e conhecer pessoas da 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maria_Luiza_Dias-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-luiza-dias-de-jesus-86047a305)
-[![GitHub](https://img.shields.io/badge/GitHub-marialdias-240046?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marialdias)
+[![GitHub](https://img.shields.io/badge/GitHub-mariadias-240046?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mariadias)
 
 </div>
 
 <br>
 
 <div align="center">
+
+*"Transformando curiosidade em conhecimento, e conhecimento em soluções."*
 
 **Data • Technology • Growth**
 
