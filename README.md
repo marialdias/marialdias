@@ -68,7 +68,6 @@ Gosto de transformar dados em informações úteis, entender problemas e encontr
 
 </div>
 
-> Meu foco é construir uma carreira cada vez mais orientada por dados, tecnologia e resolução de problemas.
 
 <br>
 
