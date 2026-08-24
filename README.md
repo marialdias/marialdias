@@ -23,8 +23,6 @@ const mariaLuiza = {
 };
 ```
 
-Gosto de transformar dados em informações úteis, entender problemas e encontrar soluções através da tecnologia. Meu objetivo é evoluir constantemente, construindo uma trajetória sólida na área de **Dados, BI e Analytics**.
-
 <br>
 
 ## Tecnologias & Conhecimentos
