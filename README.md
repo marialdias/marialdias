@@ -92,7 +92,7 @@ Aqui você encontrará projetos acadêmicos e pessoais relacionados a:
 
 ## Vamos nos conectar?
 
-Estou sempre aberto a aprender, compartilhar conhecimento e conhecer pessoas da área de tecnologia e dados.
+Estou sempre aberta a aprender, compartilhar conhecimento e conhecer pessoas da área de tecnologia e dados.
 
 <div align="center">
 
