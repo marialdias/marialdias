@@ -16,9 +16,8 @@ Sou formada em Análise e Desenvolvimento de Sistemas e atualmente estou direcio
 const mariaLuiza = {
     formacao: "Análise e Desenvolvimento de Sistemas",
     posGraduacao: "Data Science (em andamento)",
-    areas: ["Análise de Dados", "SQL", "Business Intelligence", "Tecnologia"],
-    interesses: ["Data Science", "Analytics", "BI", "QA"],
-    diferencial: "Infraestrutura e Segurança de Redes",
+    areas: ["Análise de Dados", "Business Intelligence", "Tecnologia"],
+    interesses: ["Data Science", "Analytics", "BI"],
 
 };
 ```
@@ -80,13 +79,6 @@ Aqui você encontrará projetos acadêmicos e pessoais relacionados a:
 
 <br>
 
-## Minhas Contribuições
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/mariadias/mariadias/output/github-contribution-grid-snake.svg" width="100%" />
-
-</div>
 
 <br>
 
